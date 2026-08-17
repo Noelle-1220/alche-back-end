@@ -1,1 +1,0 @@
-this repository contain api practises
